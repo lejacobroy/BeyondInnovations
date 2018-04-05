@@ -1,0 +1,67 @@
+body {
+	font-family: 'Poppins', sans-serif !important;
+	font-weight: 600;
+}
+.primary-btn{
+border-color: #5cccf5 !important;
+background-color:#5cccf5 !important;
+
+}
+
+.button.primary-btn.raised:hover {
+border-color: #8bdbf8 !important;
+background-color:#8bdbf8 !important;
+box-shadow: 0 14px 26px -12px rgba(139,219,248,0.42),0 4px 23px 0px rgba(139,219,248,0.12),0 8px 10px -5px rgba(139,219,248,0.2) !important;
+
+}
+
+.secondary-btn{
+border-color: #5cccf5 !important;
+background-color:#5cccf5 !important;
+
+}
+
+.button.secondary-btn.raised:hover {
+border-color: #8bdbf8 !important;
+background-color:#8bdbf8 !important;
+box-shadow: 0 14px 26px -12px rgba(139,219,248,0.42),0 4px 23px 0px rgba(139,219,248,0.12),0 8px 10px -5px rgba(139,219,248,0.2) !important;
+
+}
+
+.section-secondary {
+	border-color: #daf2fb !important;
+	background-color:#daf2fb !important;
+}
+
+
+.nav .nav-item.is-tab:hover {
+border-bottom-color: #8bdbf8 !important;
+}
+
+#backtotop a {
+	border-color: #5cccf5 !important;
+background-color: #5cccf5 !important;
+}
+
+#backtotop a :hover {
+	border-color: #8bdbf8 !important;
+background-color: #8bdbf8 !important;
+box-shadow: 0 14px 26px -12px rgba(139,219,248,0.42),0 4px 23px 0px rgba(139,219,248,0.12),0 8px 10px -5px rgba(139,219,248,0.2) !important;
+}
+
+.nav-left {
+height: 6rem !important;
+}
+
+.brand {
+	height: 4rem;
+	max-height: 4rem !important;
+}
+
+.pr-60 {
+	padding-right: 60px;
+}
+
+.mt-100 {
+	margin-top: 100px;
+}
