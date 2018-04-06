@@ -2,6 +2,13 @@ body {
 	font-family: 'Poppins', sans-serif !important;
 	font-weight: 600;
 }
+.email {
+	color:#5cccf5 !important;
+}
+
+.email:hover {
+	color: #8bdbf8 !important;
+}
 .primary-btn{
 border-color: #5cccf5 !important;
 background-color:#5cccf5 !important;
@@ -66,4 +73,7 @@ overflow: visible;
 
 .mt-100 {
 	margin-top: 100px;
+}
+.title-wrapper {
+	padding-bottom: 30px !important;
 }
