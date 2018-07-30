@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://beyondinnovation.tech/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://beyondinnovation.tech/blog/" rel="alternate" type="text/html" /><updated>2018-07-29T22:35:10-04:00</updated><id>http://beyondinnovation.tech/blog/</id><title type="html">BeyondInnovations • Blog</title><subtitle>Follow our progess while we build a new generation of  Weather Stations and residential sized Wind Turbines.</subtitle><entry><title type="html">Welcome 3D Printer!</title><link href="http://beyondinnovation.tech/blog/2018/07/23/welcome-3D-printer.html" rel="alternate" type="text/html" title="Welcome 3D Printer!" /><published>2018-07-23T21:22:39-04:00</published><updated>2018-07-23T21:22:39-04:00</updated><id>http://beyondinnovation.tech/blog/2018/07/23/welcome-3D-printer</id><content type="html" xml:base="http://beyondinnovation.tech/blog/2018/07/23/welcome-3D-printer.html">&lt;p&gt;In order to test the fesability of our Wind Turbine, we need to gather data about wind speed and how height affects it. In Québec, no precise information is openly available, so we deceided to build our own Weather Station and run some tests.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/Weatherstation.jpg&quot; alt=&quot;WeatherSationCAD&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To build those prototypes, we bought a 3D Printer &lt;a href=&quot;https://www.mechestore.com/collections/all-3d-printers/products/creality-cr-10-s5&quot;&gt;Creality CR-10S5&lt;/a&gt;. The Weather Station will be powered by a &lt;a href=&quot;https://www.raspberrypi.org/products/raspberry-pi-zero-w/&quot;&gt;RaspberryPi Zero W&lt;/a&gt;, the Pi will gather data from multiple sensors (Altitude, Barometric Sensor, Temperature, Rain precipitation, Wind Speed and Wind Direction) and send it back to a Control Center website, where we will output and compare data into graphs.&lt;/p&gt;
+
+&lt;p&gt;During the week, we’ve printed a few test pieces, various tools and upgrades for the printer. Here’s the progress so far :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/IMG_0772.jpg&quot; alt=&quot;BitcoinToken&quot; /&gt;
+A Bitcoin Token to test various print quality.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/IMG_0773.jpg&quot; alt=&quot;PiZeroWCase&quot; /&gt;
+The bottom case for the RaspberryPi Zero W, to secure it inside the Weather Station.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/IMG_0774.jpg&quot; alt=&quot;Soldering Finger&quot; /&gt;
+Because we will need to make a lot of solder joints, we printed this holder (the part in white) to hold the wires while we solder them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/IMG_0775.jpg&quot; alt=&quot;Enclosure&quot; /&gt;
+To protect the printer, we’ve built a MDF enclosure, with In &amp;amp; Out fans and LED lights. The door is still missing, we’re using an curtan for the time being.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/IMG_0776.jpg&quot; alt=&quot;FangUpgrade&quot; /&gt;
+If I’m being honest, the stock fan is pretty bad, so I printed a “Fang” type of deflector to cool more effectively the printed filament.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/IMG_0777.jpg&quot; alt=&quot;FilamentSensor&quot; /&gt;
+Sometimes, we run out of filament while printing. Normaly, the printer will continue the movements, whitout really printing. To counter this, We Printed and installed a filament sensor. Now, if we run out of filament, the printer will simply pause.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/IMG_0778.jpg&quot; alt=&quot;ToolRack&quot; /&gt;
+Maintaining a 3D Printer requires a lot of tools, it was only fitting to print a tool rack!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://beyondinnovation.tech/blog/images/week1/IMG_0779.jpg&quot; alt=&quot;RPI3&quot; /&gt;
+To secure my personal Raspberry PI 3+, I printed a case while testing two different settings. This Pi hosts an OctoPrint server.&lt;/p&gt;
+
+&lt;p&gt;Because 3D printing is a very long process, usualy 8-20hrs, I use &lt;a href=&quot;https://octoprint.org&quot;&gt;OctoPrint&lt;/a&gt; on my Raspberry Pi 3+ to control it remotely.&lt;/p&gt;</content><author><name></name></author><summary type="html">In order to test the fesability of our Wind Turbine, we need to gather data about wind speed and how height affects it. In Québec, no precise information is openly available, so we deceided to build our own Weather Station and run some tests.</summary></entry></feed>
